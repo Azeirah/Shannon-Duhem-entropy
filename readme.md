@@ -5,7 +5,7 @@ Just some experiments with Duhem's law of Cognitive Complementarity from [Nichol
 Use nix to play with the code. The following command sets up a nix development environment with all the relevant python stuff automatically isolated for you.
 No docker (yet?) sorry.
 
-This is also entirely sandboxed etc
+- [install nix](https://determinate.systems/posts/determinate-nix-installer/)
 
 ```
 $ nix develop
